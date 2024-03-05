@@ -17,3 +17,8 @@ Organizzare i singoli membri in card/schede
 
 1. creo un array che contiene degli oggetti (ogni oggetto conterrà le informazioni del membro del team )
 2. creo un ciclo for of per estrapolare ogni oggetto
+3. stampo su console all'interno del ciclo 
+4. importo, aggiungendolo in una costante, l'elemento in cui stamperò tramite template literal 
+5. stampo nel template
+
+

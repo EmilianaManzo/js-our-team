@@ -5,3 +5,17 @@ body{
 .container{
   margin: 100px auto;
 }
+
+h5,
+p{
+  color: #625d56 !important;
+  
+}
+
+h5{
+  font-family: "PT Serif", serif;
+}
+
+p{
+  font-family: "Quicksand", sans-serif; 
+}
