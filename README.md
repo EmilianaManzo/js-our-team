@@ -15,4 +15,5 @@ Organizzare i singoli membri in card/schede
 
 ## Svolgimento
 
-1.
+1. creo un array che contiene degli oggetti (ogni oggetto conterrà le informazioni del membro del team )
+2. creo un ciclo for of per estrapolare ogni oggetto
